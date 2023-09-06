@@ -1,1 +1,2 @@
-# A website to depicture a process of creating a custom guitar
+# A website to show the process of creating a custom guitar
+https://handmadebyalex.web.app/
